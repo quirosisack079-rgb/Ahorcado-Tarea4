@@ -7,9 +7,6 @@ Como correrlo
 
 Tener Python instalado y ejecutar:
 
-bashpython Tarea_4_Documentacion.py
-
-
 Como funciona
 
 
